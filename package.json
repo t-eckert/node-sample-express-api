@@ -1,0 +1,15 @@
+{
+  "name": "sample-express-api",
+  "version": "1.0.0",
+  "description": "A sample API in Express for Digital Ocean deployment blog post.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "API"
+  ],
+  "author": "Thomas Eckert",
+  "license": "ISC"
+}
